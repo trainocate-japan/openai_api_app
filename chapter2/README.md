@@ -1,0 +1,1 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/trainocate-japan/openai_api_app/blob/main/chapter2/%E7%AC%AC2%E7%AB%A0%20Chat%20Completions.ipynb)
