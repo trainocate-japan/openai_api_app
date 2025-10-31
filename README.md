@@ -1,6 +1,6 @@
 # 生成AIアプリ開発入門 ～OpenAI API活用～
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Trainocate-f/OpenAIAPIApp_Lecture_github/blob/main/OpenAIAPIApp_Lecture_github/Google%20Colaboratoryを使ってみよう.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/trainocate-japan/OpenAIAPIApp_Lecture_github/blob/main/OpenAIAPIApp_Lecture_github/Google%20Colaboratoryを使ってみよう.ipynb)
 
 ---
 
@@ -27,13 +27,6 @@ os.environ["OPENAI_API_KEY"] = "sk-xxxxx..."
 ```
 
 ### 3️ 各章のノートブックを実行
-| 章 | 内容 | Colabリンク |
-|----|------|--------------|
-| 第2章 | Chat Completionsと連続対話 | [Open in Colab](https://colab.research.google.com/github/Trainocate-f/OpenAIAPIApp_Lecture_github/blob/main/OpenAIAPIApp_Lecture_github/chapter2/第2章%20Chat%20Completions.ipynb) |
-| 第3章 | Text-to-Speechと画像生成 | [Open in Colab](https://colab.research.google.com/github/Trainocate-f/OpenAIAPIApp_Lecture_github/blob/main/OpenAIAPIApp_Lecture_github/chapter3/第3章%20Text-to-speech.ipynb) |
-| 第4章 | Embeddingsによる検索と類似度 | [Open in Colab](https://colab.research.google.com/github/Trainocate-f/OpenAIAPIApp_Lecture_github/blob/main/OpenAIAPIApp_Lecture_github/chapter4/第4章%20Embedding.ipynb) |
-
----
 
 ## 注意事項
 - **APIキーは絶対に公開リポジトリに含めないでください。**
