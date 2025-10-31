@@ -13,7 +13,7 @@ Google Colab 上で動作する Jupyter Notebook を通して、以下のトピ�
 ## 使用方法
 
 ### 1 Colabで開く
-上部の **「Open in Colab」バッジ** をクリックして、`Google Colaboratoryを使ってみよう.ipynb` を開きます。
+ノートブック上部の **「Open in Colab」バッジ** をクリックしてColabで開きます。
 
 ### 2️ APIキー設定
 ノートブック内で以下を実行してOpenAI APIキーを設定します：
