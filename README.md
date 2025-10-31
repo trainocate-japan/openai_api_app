@@ -12,7 +12,6 @@ Google Colab 上で動作する Jupyter Notebook を通して、以下のトピ�
 - 画像生成 (Image Generation)  
 - 音声合成 (Text-to-Speech)  
 - テキスト埋め込み (Embeddings)  
-- 連続的な対話アプリケーションの実装  
 
 
 ## 使用方法
