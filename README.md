@@ -1,7 +1,5 @@
 # 生成AIアプリ開発入門 ～OpenAI API活用～
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/trainocate-japan/OpenAIAPIApp_Lecture_github/blob/main/OpenAIAPIApp_Lecture_github/Google%20Colaboratoryを使ってみよう.ipynb)
-
 ---
 
 ## 概要
