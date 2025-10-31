@@ -14,30 +14,6 @@ Google Colab 上で動作する Jupyter Notebook を通して、以下のトピ�
 - テキスト埋め込み (Embeddings)  
 - 連続的な対話アプリケーションの実装  
 
----
-
-## ディレクトリ構成
-
-```
-OpenAIAPIApp_Lecture_github/
-├── OpenAIAPIApp_Lecture_github/
-│   ├── add_colab_badge.py
-│   ├── Google Colaboratoryを使ってみよう.ipynb
-│   ├── chapter2/
-│   │   ├── 第2章 Chat Completions.ipynb
-│   │   └── 第2章 (オプション) 連続した対話機能の実装.ipynb
-│   ├── chapter3/
-│   │   ├── 第3章 Text-to-speech.ipynb
-│   │   └── 第3章 画像生成.ipynb
-│   ├── chapter4/
-│   │   └── 第4章 Embedding.ipynb
-│   ├── data/
-│   │   └── 走れメロス(青空文庫).txt
-│   └── utils/
-│       └── embeddings_utils.py
-```
-
----
 
 ## 使用方法
 
